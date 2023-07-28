@@ -1,12 +1,25 @@
-### Olá, eu sou o Lucas Rezende 🤗
+### Lucas Rezende 👨‍💻
 
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.frznd/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rezende-935a15234/)
 
-## Linguagens em aprendizado
+## Studying
 
 <div style="display: inline_block"><br/>
-	<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div> <br/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50px />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=50px />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50px/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50px/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=50px/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=50px//>
+</div> <hr> 
 
-Estudando tecnologia e buscando sempre evoluir.
+<div>
+	<h2>Main Projects</h2>
+	<ul>
+		<li><a href="https://github.com/lucasrznd/sorteador-educadora">Sorteador</a></li>
+		<li><a href="https://github.com/lucasrznd/treino-dslist">API Games CRUD</a></li>
+		<li><a href="https://github.com/lucasrznd/crud-cadastro-jpa">API Enterprise CRUD</a></li>
+	</ul>
+</div>
+
