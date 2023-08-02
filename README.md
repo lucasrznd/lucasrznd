@@ -17,9 +17,10 @@
 <div>
 	<h2>Main Projects</h2>
 	<ul>
-		<li><a href="https://github.com/lucasrznd/sorteador-educadora">Sorteador</a></li>
-		<li><a href="https://github.com/lucasrznd/treino-dslist">API Games CRUD</a></li>
-		<li><a href="https://github.com/lucasrznd/crud-cadastro-jpa">API Enterprise CRUD</a></li>
+		<li><a href="https://github.com/lucasrznd/sorteador-educadora">Sorteador - Java SWING</a></li>
+		<li><a href="https://github.com/lucasrznd/login-autenticacao-swing">Tela de Login com Autenticação - Java SWING</a></li>
+		<li><a href="https://github.com/lucasrznd/treino-dslist">API Games CRUD - Spring</a></li>
+		<li><a href="https://github.com/lucasrznd/crud-cadastro-jpa">API Enterprise CRUD - Spring</a></li>
 	</ul>
 </div>
 
