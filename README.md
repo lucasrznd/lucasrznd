@@ -1,4 +1,4 @@
-<p align="center">Welcome to my Profile 👋<br><br>I'm a Software Engineering student, technology enthusiast, and committed to continuous learning. Currently, I'm studying Backend development with Java.</p>&nbsp;
+<p align="center">Welcome to my Profile 👋<br><br>I'm a Software Engineering student. Currently, I'm studying Backend development with Java.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasrznd&theme=radical&mode=weekly" />
