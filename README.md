@@ -1,8 +1,4 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/lucasrznd/lucasrznd/blob/main/background-topo.jpg" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Welcome to my Profile 👋<br><br>I'm a Software Engineering student, technology enthusiast, and committed to continuous learning. Currently, I'm studying Backend development with Java, Hibernate, and Front-end frameworks like JSF, as well as Spring Boot with Angular.</p>&nbsp;
+<p align="center">Welcome to my Profile 👋<br><br>I'm a Software Engineering student, technology enthusiast, and committed to continuous learning. Currently, I'm studying Backend development with Java.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasrznd&theme=radical&mode=weekly" />
