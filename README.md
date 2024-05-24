@@ -21,11 +21,11 @@
 ##
 
 <div style="width: 100%">
- <p><img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasrznd&show_icons=true&locale=en&theme=radical&layout=compact" alt="lucasrznd" /></p>
+ <p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucasrznd&show_icons=true&locale=en&theme=radical&layout=compact" alt="lucasrznd" /></p>
  
- <p>&nbsp;<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=lucasrznd&show_icons=true&locale=en&theme=radical&layout=compact" alt="lucasrznd" /></p>
+ <p><img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasrznd&show_icons=true&locale=en&theme=radical&layout=compact" alt="lucasrznd" /></p>
  
- <p><img width="38%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasrznd&theme=radical&mode=weekly" /></p>
+ <p><img width="50%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasrznd&theme=radical&mode=weekly" /></p>
 </div>
 
 <!-- Purple Image --> 
